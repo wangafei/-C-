@@ -1,3 +1,9 @@
+>  **This repo is no longer maintained!** 
+>
+>  **Please go to https://github.com/micooz/DesignPattern for further information.** 
+
+----
+
 # 23种设计模式的C++实现
 
 **每个文件夹对应一个设计模式**
